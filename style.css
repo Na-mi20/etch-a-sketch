@@ -1,0 +1,69 @@
+
+body{
+   background-color: pink;
+}
+.heading{
+   background-color: rgb(241, 190, 173);
+   width:700px;
+   padding:60px;
+   margin:auto;
+   border-radius:15px;
+   box-shadow: 2px 4px 2px 2px black;
+}
+h1{
+   text-align: center;
+   margin: 0 auto 10px auto;
+}
+.container{
+   height:300px;
+   width:300px;
+   display: flex;
+   margin:10px auto;
+  
+   
+}
+
+   
+
+.two{
+   border:1px solid black;
+   background-color: white;
+   
+
+}
+.btn{
+   display: inline-block;
+   border-radius: 10px;
+   border: none;
+   width:200px;
+   padding:7px;
+   background-color: black;
+   color:White;
+   
+   
+}
+.clear{
+      display: inline-block;
+   border-radius: 10px;
+   border: none;
+   width:200px;
+   padding:7px;
+   background-color: black;
+   color:White;
+}
+.search{
+   display: flex;
+   gap:10px;
+   justify-content: space-around;
+   
+
+}
+input{
+   width:200px;
+   padding:7px;
+   border-radius: 10px;
+   text-align: center;
+   border:none;
+
+   
+}
